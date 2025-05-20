@@ -16,4 +16,4 @@ ANOMALIES_TOPIC = "anomalies"
 ANOMALIES_CONSUMER_GROUP = "anomalies"
 
 SLACK_API_TOKEN = os.environ.get("SLACK_API_TOKEN")
-SLACK_CHANNEL = "anomalies-alerts"
+SLACK_CHANNEL = "C08TKN47HJ4"

@@ -20,6 +20,7 @@ def create_producer():
     except Exception as e:
         logging.exception("Couldn't create the producer")
         producer = None
+    print("Producer created")
     return producer
 
 
